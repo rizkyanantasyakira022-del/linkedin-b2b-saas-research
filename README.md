@@ -13,11 +13,12 @@ The goal is to identify patterns, frameworks, and real-world tactics used by suc
 
 ## Repository Structure
 research/
-├── linkedin-posts/ # LinkedIn posts from selected SaaS experts
 
-├── youtube-transcripts/ # Podcast / YouTube transcripts from founders & marketers
+- linkedin-posts/ # LinkedIn posts from selected SaaS experts
 
-└── other/ # Additional supporting materials (blogs, tweets, notes)
+- youtube-transcripts/ # Podcast / YouTube transcripts from founders & marketers
+
+- other/ # Additional supporting materials (blogs, tweets, notes)
 
 ## Data Strategy
 Each source in this repository is selected based on:
