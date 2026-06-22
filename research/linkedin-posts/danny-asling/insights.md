@@ -1,7 +1,7 @@
 ## DANNY ASLING — GTM ORCHESTRATION SYSTEMS
 
 Core Theme
-SaaS marketing is shifting from execution to system orchestration.
+- SaaS marketing is shifting from execution to system orchestration.
 
 Key Insights
 - AI compresses execution time, forcing strategy to become primary differentiator
