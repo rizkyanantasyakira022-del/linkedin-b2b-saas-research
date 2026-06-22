@@ -1,4 +1,4 @@
-Peep Laja — TRUST & CONVERSION SYSTEMS
+# Peep Laja — TRUST & CONVERSION SYSTEMS
 
 Core Theme
 Trust is the primary constraint in modern SaaS conversion.
