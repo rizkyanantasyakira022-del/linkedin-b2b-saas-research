@@ -1,4 +1,4 @@
-# Peep Laja – Posts
+# Peep Laja
 
 Profile
 - Role: Conversion Optimization / B2B Marketing Strategist
