@@ -9,7 +9,7 @@ Key Insights
 - GTM failures often come from misaligned pressure strategies
 
 System Interpretation
-Marketing is shifting from persuasion to verification infrastructure.
+- Marketing is shifting from persuasion to verification infrastructure.
 
 Core Principle
 - Trust is the gating function of all SaaS revenue.
