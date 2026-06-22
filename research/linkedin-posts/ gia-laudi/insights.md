@@ -9,7 +9,7 @@ Key Insights
 - Voice of customer becomes always-on input to GTM decisions
 
 System Interpretation
-Customer understanding is becoming real-time infrastructure, not periodic research.
+- Customer understanding is becoming real-time infrastructure, not periodic research.
 
 Core Principle
 - The best GTM systems continuously learn from customer reality.
