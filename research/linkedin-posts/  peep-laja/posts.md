@@ -1,13 +1,13 @@
 # Peep Laja – Posts
 
-- Link: positioning-1
+- Link: https://www.linkedin.com/in/peeplaja/
   Topic: Positioning
   Insight: Positioning defines market success
 
-- Link: messaging-2
+- Link: https://www.linkedin.com/in/peeplaja/
   Topic: Messaging clarity
   Insight: Clear messaging increases conversion
 
-- Link: research-3
-  Topic: Market research
-  Insight: Customer understanding is critical
+- Link: https://www.linkedin.com/in/peeplaja/
+  Topic: Customer research
+  Insight: Deep customer understanding drives market fit
