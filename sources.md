@@ -1,187 +1,75 @@
-# Sources - LinkedIn Organic Strategy for B2B SaaS
-
-
-
-This repository curates insights from real operators, founders, and growth practitioners who actively build and scale B2B SaaS companies using LinkedIn organic content.
-
-The selection focuses on actionable insights, real experiments, and proven growth strategies.
-
-
-
-## Expert 1
-
-Name: Justin Welsh  
-
-Role: Solo SaaS Founder / Creator  
-
-Company: The Solo Founder System  
-
-Platform: LinkedIn  
-
-Why selected: One of the most consistent LinkedIn creators sharing proven content systems for audience building and monetization  
-
-Key focus: Personal branding, content systems, solo SaaS growth  
-
-Link: https://www.linkedin.com/in/justinwelsh/
-
-
-
-## Expert 2
-
-Name: Alex Hormozi  
-
-Role: Entrepreneur / Investor  
-
-Company: Acquisition.com  
-
-Platform: LinkedIn  
-
-Why selected: Shares high-performing content frameworks and business scaling principles based on real company growth  
-
-Key focus: Offer creation, scaling, distribution  
-
-Link: https://www.linkedin.com/in/hormozi/
-
-
-
-## Expert 3
-
-Name: Sam Parr  
-
-Role: Founder / Media Builder  
-
-Company: The Hustle / Hampton  
-
-Platform: LinkedIn  
-
-Why selected: Strong insights on audience building and media-driven growth strategies  
-
-Key focus: Audience building, content-driven business  
-
-Link: https://www.linkedin.com/in/sam-parr/
-
-
-
-## Expert 4
-
-Name: Sahil Bloom  
-
-Role: Creator / Investor  
-
-Company: SRB Holdings  
-
-Platform: LinkedIn  
-
-Why selected: High-quality breakdowns of frameworks, storytelling, and audience engagement  
-
-Key focus: Storytelling, frameworks, growth psychology  
-
-Link: https://www.linkedin.com/in/sahilbloom/
-
-
-
-## Expert 5
-
-Name: David Perell  
-
-Role: Writer / Educator  
-
-Company: Write of Passage  
-
-Platform: LinkedIn  
-
-Why selected: Focus on writing, distribution, and content leverage systems  
-
-Key focus: Writing leverage, content strategy  
-
-Link: https://www.linkedin.com/in/david-perell/
-
-
-
-## Expert 6
-
-Name: Guillaume Moubeche  
-
-Role: Founder  
-
-Company: Lemlist  
-
-Platform: LinkedIn  
-
-Why selected: SaaS founder actively sharing growth experiments and LinkedIn-driven acquisition strategies  
-
-Key focus: SaaS growth, outbound + inbound synergy  
-
-Link: https://www.linkedin.com/in/guillaumemoubeche/
-
-
-
-## Expert 7
-
-Name: Chris Walker  
-
-Role: CEO / B2B Marketing Expert  
-
-Company: Refine Labs  
-
-Platform: LinkedIn  
-
-Why selected: Strong authority in modern B2B marketing and demand generation strategies  
-
-Key focus: Demand generation, B2B marketing systems  
-
-Link: https://www.linkedin.com/in/chriswalker171/
-
-
-
-## Expert 8
-
-Name: Devin Reed  
-
-Role: Head of Content  
-
-Company: Clari  
-
-Platform: LinkedIn  
-
-Why selected: Breaks down B2B content strategy and LinkedIn growth systems for SaaS companies  
-
-Key focus: Content strategy, B2B SaaS marketing  
-
-Link: https://www.linkedin.com/in/devinreed/
-
-
-
-## Expert 9
-
-Name: Ross Simmonds  
-
-Role: Marketing Strategist  
-
-Company: Foundation Marketing  
-
-Platform: LinkedIn  
-
-Why selected: Focus on content distribution systems and content repurposing strategies  
-
-Key focus: Content distribution, repurposing, SEO  
-
-Link: https://www.linkedin.com/in/rosssimmonds/
-
-
-
-## Expert 10
-
-Name: Peep Laja  
-
-Role: Founder  
-
-Company: Wynter  
-
-Platform: LinkedIn  
-
-Why selected: Deep expertise in B2B positioning, messaging, and conversion-focused content  
-
-Key focus: Positioning, messaging, conversion optimization  
-
-Link: https://www.linkedin.com/in/peep-laja/
+# Research Sources – LinkedIn Organic Content Strategy for B2B SaaS
+## Overview
+This document lists all selected experts used in this research project. All experts were chosen based on active involvement in B2B SaaS marketing, consistency in publishing content, and real-world experience in growth, positioning, or distribution systems.
+
+The purpose is to analyze practitioner-driven insights, not theoretical commentary.
+
+## 1. Peep Laja
+- Role: Founder, Wynter
+- Focus: Positioning, messaging, customer research
+- Link: https://www.linkedin.com/in/peeplaja
+- Why selected: Strong authority in SaaS positioning and messaging clarity
+- Key relevance: Positioning as core driver of conversion and market fit
+
+## 2. Josh Spector
+- Role: Content Strategist
+- Focus: Content strategy, consistency systems, audience building
+- Link: https://www.linkedin.com/in/jspector
+- Why selected: Focus on simple and repeatable content systems
+- Key relevance: Consistency and clarity outperform complex content tactics
+
+## 3. Lenny Rachitsky
+- Role: Product & Growth Advisor (Ex-Airbnb PM)
+- Focus: Product-led growth, retention, SaaS strategy
+- Link: https://www.linkedin.com/in/lennysan
+- Why selected: Strong integration of product thinking and growth strategy
+- Key relevance: Product experience directly impacts organic growth
+
+## 4. Shaan Puri
+- Role: Entrepreneur, Investor, Creator
+- Focus: Storytelling, distribution psychology, startup growth
+- Link: https://www.linkedin.com/in/shaanpuri
+- Why selected: Strong narrative-driven approach to growth and content
+- Key relevance: Storytelling as distribution leverage
+
+## 5. Amanda Natividad
+- Role: VP Marketing, SparkToro
+- Focus: Content distribution, SEO, compounding content systems
+- Link: https://www.linkedin.com/in/amandanat
+- Why selected: Strong advocate of content repurposing and compounding strategy
+- Key relevance: Multi-channel content distribution systems
+
+## 6. Chris Walker
+- Role: Founder, Refine Labs
+- Focus: Demand generation, audience building, B2B marketing systems
+- Link: https://www.linkedin.com/in/chriswalker171
+- Why selected: Pioneer of modern demand generation thinking
+- Key relevance: Shift from lead generation to demand creation systems
+
+## 7. Claire Suellentrop
+- Role: SaaS Messaging Consultant
+- Focus: SaaS messaging, positioning clarity, customer insight
+- Link: https://www.linkedin.com/in/clairesuellentrop
+- Why selected: Deep expertise in simplifying SaaS messaging
+- Key relevance: Messaging clarity improves conversion efficiency
+
+## 8. Julian Shapiro
+- Role: Founder, Demand Curve
+- Focus: Growth systems, marketing frameworks, scaling strategies
+- Link: https://www.linkedin.com/in/julian-shapiro
+- Why selected: Known for structured and repeatable growth frameworks
+- Key relevance: System-based growth over tactical execution
+
+## 9. Kieran Flanagan
+- Role: SVP Marketing, HubSpot
+- Focus: SaaS marketing systems, AI in marketing, demand generation
+- Link: https://www.linkedin.com/in/kieranflanagan
+- Why selected: Enterprise-level marketing systems and AI integration
+- Key relevance: AI as workflow amplifier in marketing systems
+
+## 10. Ross Simmonds
+- Role: Founder, Foundation Marketing
+- Focus: Content distribution, repurposing, visibility systems
+- Link: https://www.linkedin.com/in/rosssimmonds
+- Why selected: Strong authority in content distribution strategy
+- Key relevance: Distribution-first content philosophy
