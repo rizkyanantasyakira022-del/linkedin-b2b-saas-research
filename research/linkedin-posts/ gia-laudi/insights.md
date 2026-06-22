@@ -1,7 +1,7 @@
 # Gia Laudi — CUSTOMER INTELLIGENCE SYSTEMS
 
 Core Theme
-GTM is evolving into continuous customer intelligence systems.
+- GTM is evolving into continuous customer intelligence systems.
 
 Key Insights
 - Revenue architecture must be modeled as a system, not funnel
