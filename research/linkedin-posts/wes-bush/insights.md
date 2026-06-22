@@ -9,7 +9,7 @@ Key Insights
 - Time-to-value is now a primary growth lever
 
 System Interpretation
-Winning SaaS companies optimize the gap between signup and first meaningful value.
+- Winning SaaS companies optimize the gap between signup and first meaningful value.
 
 Core Principle
 - Speed is now a structural advantage, not an optimization metric.
