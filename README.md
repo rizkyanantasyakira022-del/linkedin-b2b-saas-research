@@ -1,42 +1,28 @@
-# LinkedIn B2B SaaS Organic Growth Research
+# LinkedIn Organic Content Strategy for B2B SaaS
 
 ## Overview
-This repository contains curated research on how B2B SaaS companies and operators use LinkedIn organic content strategies to build audience, generate leads, and grow distribution without paid ads.
+This repository is a structured research project analyzing how top B2B SaaS marketing experts use LinkedIn as an organic growth channel. The focus is not on individual posts, but on extracting repeatable systems behind content performance, distribution, and audience growth.
 
-The goal is to identify patterns, frameworks, and real-world tactics used by successful founders, marketers, and growth operators.
+Instead of treating LinkedIn content as isolated marketing activity, this project reframes it as a system of compounding distribution and messaging strategy.
 
 ## Objective
-- Analyze real LinkedIn content from SaaS operators
-- Identify content strategies that drive engagement and growth
-- Build a structured knowledge base from real-world examples
-- Understand how organic LinkedIn is used as a growth channel in B2B SaaS
+To identify and synthesize patterns from leading B2B SaaS practitioners on LinkedIn in order to understand:
+
+- How organic content drives SaaS growth
+- How distribution systems outperform content volume
+- How messaging and positioning influence engagement
+- How modern marketing integrates AI, storytelling, and systems thinking
+
+## Research Methodology
+
+This project follows a qualitative content analysis approach:
+
+1. Selection of 10 active B2B SaaS marketing experts based on relevance and consistency of output
+2. Collection of LinkedIn content examples from each expert
+3. Extraction of post-level insights (themes, strategies, mental models)
+4. Structuring insights per expert into individual analysis files
+5. Cross-expert synthesis to identify recurring patterns and systems
+
+The goal is not content aggregation, but abstraction of underlying marketing logic.
 
 ## Repository Structure
-research/
-
-- linkedin-posts/ # LinkedIn posts from selected SaaS experts
-
-- youtube-transcripts/ # Podcast / YouTube transcripts from founders & marketers
-
-- other/ # Additional supporting materials (blogs, tweets, notes)
-
-## Data Strategy
-Each source in this repository is selected based on:
-- Real experience in B2B SaaS
-- Active use of LinkedIn for organic growth
-- Actionable insights (not motivational content)
-- Evidence of building or scaling products
-
-## Research Focus Areas
-
-- Content frameworks used by SaaS founders
-- Hook and storytelling patterns
-- Audience building strategies
-- Conversion tactics from LinkedIn content
-- Distribution and consistency models
-
-## Goal of This Project
-To transform scattered LinkedIn insights into a structured research dataset that can later be used to build a practical growth playbook for B2B SaaS companies.
-
-## Status
-Work in progress — initial repository structure completed.
