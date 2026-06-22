@@ -1,7 +1,7 @@
 ## AMANDA NATIVIDAD — DISTRIBUTION & AI VISIBILITY SYSTEMS
 
 Core Theme
-Content success is now determined by distribution and AI visibility, not volume.
+- Content success is now determined by distribution and AI visibility, not volume.
 
 Key Insights
 - Marketing strategy begins with distribution constraints, not content production
