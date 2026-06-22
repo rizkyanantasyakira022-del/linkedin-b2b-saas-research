@@ -9,7 +9,7 @@ Key Insights
 - SaaS GTM requires tighter alignment between AI tools and human decision layers
 
 System Interpretation
-Marketing organizations are evolving into AI-augmented orchestration systems where execution is automated and human value shifts to strategy and coordination.
+- Marketing organizations are evolving into AI-augmented orchestration systems where execution is automated and human value shifts to strategy and coordination.
 
 Core Principle
 - Execution is becoming cheap. System clarity is becoming the moat.
