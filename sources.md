@@ -1,75 +1,103 @@
-# Research Sources – LinkedIn Organic Content Strategy for B2B SaaS
+# Research Sources — LinkedIn Organic Content Strategy for B2B SaaS
+
+
 ## Overview
-This document lists all selected experts used in this research project. All experts were chosen based on active involvement in B2B SaaS marketing, consistency in publishing content, and real-world experience in growth, positioning, or distribution systems.
+This document contains selected experts used in the SaaS GTM research system.
 
-The purpose is to analyze practitioner-driven insights, not theoretical commentary.
+Each expert is selected based on:
+- Real-world B2B SaaS experience
+- Consistent thought leadership output
+- Relevance to modern GTM systems (AI, PLG, distribution, demand gen, org design)
 
-## 1. Peep Laja
-- Role: Founder, Wynter
-- Focus: Positioning, messaging, customer research
-- Link: https://www.linkedin.com/in/peeplaja
-- Why selected: Strong authority in SaaS positioning and messaging clarity
-- Key relevance: Positioning as core driver of conversion and market fit
 
-## 2. Josh Spector
-- Role: Content Strategist
-- Focus: Content strategy, consistency systems, audience building
-- Link: https://www.linkedin.com/in/jspector
-- Why selected: Focus on simple and repeatable content systems
-- Key relevance: Consistency and clarity outperform complex content tactics
+# 1. Peep Laja
+**Role:** Founder, Wynter  
+**Focus:** Positioning, messaging, conversion psychology  
+**Profile:** https://www.linkedin.com/in/peeplaja  
+**Why selected:**
+Strong authority in SaaS positioning and buyer psychology.
+**Key relevance:**
+Positioning defines conversion efficiency and market fit.
 
-## 3. Lenny Rachitsky
-- Role: Product & Growth Advisor (Ex-Airbnb PM)
-- Focus: Product-led growth, retention, SaaS strategy
-- Link: https://www.linkedin.com/in/lennysan
-- Why selected: Strong integration of product thinking and growth strategy
-- Key relevance: Product experience directly impacts organic growth
 
-## 4. Shaan Puri
-- Role: Entrepreneur, Investor, Creator
-- Focus: Storytelling, distribution psychology, startup growth
-- Link: https://www.linkedin.com/in/shaanpuri
-- Why selected: Strong narrative-driven approach to growth and content
-- Key relevance: Storytelling as distribution leverage
+# 2. Gia Laudi
+**Role:** Customer-Led Growth / Revenue Architecture Expert  
+**Focus:** Customer research systems, GTM architecture  
+**Profile:** https://www.linkedin.com/in/georgianalaudi  
+**Why selected:**
+Strong expertise in customer-led growth and research systems.
+**Key relevance:**
+Customer understanding becomes a continuous system, not a project.
 
-## 5. Amanda Natividad
-- Role: VP Marketing, SparkToro
-- Focus: Content distribution, SEO, compounding content systems
-- Link: https://www.linkedin.com/in/amandanat
-- Why selected: Strong advocate of content repurposing and compounding strategy
-- Key relevance: Multi-channel content distribution systems
+# 3. Amanda Natividad
+**Role:** Content & Distribution Strategist  
+**Focus:** Organic growth, SEO → AEO transition, content distribution  
+**Profile:** https://www.linkedin.com/in/amandanat  
+**Why selected:**
+Strong signal on AI-era content distribution systems.
+**Key relevance:**
+Distribution now determines content success more than creation.
 
-## 6. Chris Walker
-- Role: Founder, Refine Labs
-- Focus: Demand generation, audience building, B2B marketing systems
-- Link: https://www.linkedin.com/in/chriswalker171
-- Why selected: Pioneer of modern demand generation thinking
-- Key relevance: Shift from lead generation to demand creation systems
+# 4. Chris Walker
+**Role:** Demand Gen / Revenue Marketing Leader  
+**Focus:** Demand generation, category creation, trust systems  
+**Profile:**
+https://www.linkedin.com/in/chriswalker171  
+**Why selected:**
+Strong perspective on revenue systems and market trust dynamics.
+**Key relevance:**
+Demand generation is shifting toward trust + clarity systems.
 
-## 7. Claire Suellentrop
-- Role: SaaS Messaging Consultant
-- Focus: SaaS messaging, positioning clarity, customer insight
-- Link: https://www.linkedin.com/in/clairesuellentrop
-- Why selected: Deep expertise in simplifying SaaS messaging
-- Key relevance: Messaging clarity improves conversion efficiency
+# 5. Cody Schneider
+**Role:** GTM Engineer  
+**Focus:** AI automation, paid ads systems, SEO agents  
+**Profile:** https://www.linkedin.com/in/codyxschneider  
+**Why selected:**
+Builds AI-driven marketing execution systems.
+**Key relevance:**
+Marketing execution is shifting from manual → agent-driven systems.
 
-## 8. Julian Shapiro
-- Role: Founder, Demand Curve
-- Focus: Growth systems, marketing frameworks, scaling strategies
-- Link: https://www.linkedin.com/in/julian-shapiro
-- Why selected: Known for structured and repeatable growth frameworks
-- Key relevance: System-based growth over tactical execution
+# 6. Danny Asling
+**Role:** SaaS Marketing Leader  
+**Focus:** AI marketing systems, GTM orchestration  
+**Profile:** https://www.linkedin.com/in/dannyasling  
+**Why selected:**
+Focus on AI-driven marketing transformation and org systems.
+**Key relevance:**
+Strategy and system design now outweigh execution.
 
-## 9. Kieran Flanagan
-- Role: SVP Marketing, HubSpot
-- Focus: SaaS marketing systems, AI in marketing, demand generation
-- Link: https://www.linkedin.com/in/kieranflanagan
-- Why selected: Enterprise-level marketing systems and AI integration
-- Key relevance: AI as workflow amplifier in marketing systems
+# 7. Eric Siu
+**Role:** CEO / Marketing Operator  
+**Focus:** AI loops, company brain systems, marketing transformation  
+**Profile:** https://www.linkedin.com/in/ericosiu  
+**Why selected:**
+Strong perspective on AI feedback loops and company-wide systems.
+**Key relevance:**
+Companies will operate as closed-loop intelligence systems.
 
-## 10. Ross Simmonds
-- Role: Founder, Foundation Marketing
-- Focus: Content distribution, repurposing, visibility systems
-- Link: https://www.linkedin.com/in/rosssimmonds
-- Why selected: Strong authority in content distribution strategy
-- Key relevance: Distribution-first content philosophy
+# 8. Kieran Flanagan
+**Role:** Marketing Leader  
+**Focus:** Marketing intelligence systems, org design, AI GTM  
+**Profile:** https://www.linkedin.com/in/kieranjflanagan  
+**Why selected:**
+Focus on intelligence layer and agent-based marketing orgs.
+**Key relevance:**
+Owning intelligence systems is the new competitive advantage.
+
+# 9. Ross Simmonds
+**Role:** Growth Strategist  
+**Focus:** Distribution systems, Reddit, YouTube, AEO  
+**Profile:** https://www.linkedin.com/in/rosssimmonds  
+**Why selected:**
+Strong distribution-first marketing perspective.
+**Key relevance:**
+Distribution is a system, not a channel.
+
+# 10. Wes Bush
+**Role:** Product-Led Growth Expert  
+**Focus:** Activation, speed-to-value, SaaS growth systems  
+**Profile:** https://www.linkedin.com/in/wesbush  
+**Why selected:**
+Strong focus on product-led growth and activation optimization.
+**Key relevance:**
+Speed-to-value is the primary growth moat in SaaS.
