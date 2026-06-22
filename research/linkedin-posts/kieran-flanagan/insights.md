@@ -1,6 +1,15 @@
-# Kieran Flanagan – Insights
+## KIERAN FLANAGAN — MARKETING INTELLIGENCE & ORG DESIGN
 
-- AI as marketing multiplier, not replacement
-- Distribution loops are core growth mechanism
-- Demand gen shifting toward audience building
-- Systems thinking over tactical execution
+Core Theme
+- Marketing advantage comes from owning intelligence, not tools.
+
+Key Insights
+- Intelligence layer is more valuable than models or platforms
+- Winning teams combine AI workflows + human judgment
+- Marketing orgs will evolve into agent-based systems with orchestration layers
+
+System Interpretation
+- Marketing teams are becoming hybrid systems of human judgment and AI execution agents.
+
+Core Principle
+- You don’t win with AI. You win with how you structure intelligence around AI.
