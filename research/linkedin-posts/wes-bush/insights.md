@@ -1,7 +1,7 @@
 ## Wes Bush — SPEED-TO-VALUE & ACTIVATION SYSTEMS
 
 Core Theme
-Speed-to-value is the new competitive moat in SaaS.
+- Speed-to-value is the new competitive moat in SaaS.
 
 Key Insights
 - SaaS success depends on critical activation milestones
