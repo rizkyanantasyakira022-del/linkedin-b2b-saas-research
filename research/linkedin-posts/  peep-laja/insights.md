@@ -1,7 +1,7 @@
 # Peep Laja — TRUST & CONVERSION SYSTEMS
 
 Core Theme
-Trust is the primary constraint in modern SaaS conversion.
+- Trust is the primary constraint in modern SaaS conversion.
 
 Key Insights
 - Buyers no longer trust vendor claims by default
